@@ -16,3 +16,4 @@ Example Grammarfile:
 S = A S B
 S = |
 ```
+Gives all words in language A<sup>N</sup>|B<sup>N</sup> that are generated with at most `length` rule applications.
