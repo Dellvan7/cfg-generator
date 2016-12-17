@@ -3,7 +3,9 @@ A tool to generate all words in the language denoted by a given context-free gra
 
 
 ## Use
-`python3 context_free_grammar.py grammarfile`
+`python3 context_free_grammar.py /path/to/grammarfile length`
+
+Length: the number of rule subsitutions, defult = 2
 
 ## Grammar File Format
 
